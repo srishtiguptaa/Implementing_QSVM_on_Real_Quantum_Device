@@ -12,3 +12,29 @@ This project aims to implement Quantum Support Vector Machines (QSVM) on actual 
 • Measure key statistical metrics: recall, precision, F1 score, and accuracy.
 
 • Analyze execution time for QSVM on both quantum hardware and simulators.
+
+## Prerequisites
+
+• Python 3.10 
+• AWS account with access to Amazon Braket
+• Basic knowledge of quantum computing and machine learning
+• Qiskit 
+• QSVM
+• Iris Dataset
+• Quantum Hardwares (IonQ)
+• Aria-2
+• Simulators
+
+## Usuage
+
+1. Set up your AWS credentials and configure AWS CLI.
+2. Ensure you have access to the quantum devices available in Amazon Braket.
+3. Execute the code to run QSVM on quantum hardware and simulators.
+4. Compare the output metrics and execution times from both scripts.
+5. Use the provided tools to visualize and compare the results.
+
+## Results
+
+1. The results of the comparison including recall, precision, F1 score, accuracy, and execution time will be stored in the output/ directory.
+2. Visualization and comparison of the results can be done using the provided Jupyter notebooks in the QSVM/ directory.
+
