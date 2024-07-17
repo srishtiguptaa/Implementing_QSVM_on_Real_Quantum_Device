@@ -16,13 +16,21 @@ This project aims to implement Quantum Support Vector Machines (QSVM) on actual 
 ## Prerequisites
 
 • Python 3.10 
+
 • AWS account with access to Amazon Braket
+
 • Basic knowledge of quantum computing and machine learning
+
 • Qiskit 
+
 • QSVM
-• Iris Dataset
+
+• Iris Dataset (150x4)
+
 • Quantum Hardwares (IonQ)
+
 • Aria-2
+
 • Simulators
 
 ## Usuage
